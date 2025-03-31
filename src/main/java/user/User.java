@@ -20,6 +20,6 @@ public class User {
     }
 
     public void setUserName(String newName) {
-        userName = "Sven";
+        userName = newName;
     }
 }
