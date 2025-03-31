@@ -7,6 +7,7 @@ import user.User;
 import static org.junit.Assert.assertEquals;
 
 public class UserTest {
+    //ny kommentar
 
     @Test
     public void testCreateUser() {
